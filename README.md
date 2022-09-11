@@ -1,12 +1,12 @@
 # EffDNets
 Efficient Deep Learning models papers &amp; resources 
 
-## Other currated lists:
+### Other currated lists:
 
-### Quantization of DNN:
+##### Quantization of DNN:
 https://github.com/diff7/Quantization-papers
 
-### Binary neural networks
+##### Binary neural networks
 https://github.com/diff7/Awesome-binary-networks
 
 <hr>
