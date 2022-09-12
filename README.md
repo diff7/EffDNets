@@ -13,3 +13,7 @@ https://github.com/diff7/Awesome-binary-networks
 
 ### WINOGRAD CONVOLUTION FOR DEEP NEURAL NETWORKS: EFFICIENT POINT SELECTION
 https://arxiv.org/pdf/2201.10369.pdf
+
+
+### Designing Network Design Spaces
+https://arxiv.org/pdf/2003.13678.pdf
