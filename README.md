@@ -17,3 +17,7 @@ https://arxiv.org/pdf/2201.10369.pdf
 
 ### Designing Network Design Spaces
 https://arxiv.org/pdf/2003.13678.pdf
+
+
+### SpecNet: Spectral Domain Convolutional Neural Network
+https://arxiv.org/abs/1905.10915
