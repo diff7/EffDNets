@@ -21,3 +21,6 @@ https://arxiv.org/pdf/2003.13678.pdf
 
 ### SpecNet: Spectral Domain Convolutional Neural Network
 https://arxiv.org/abs/1905.10915
+
+### EFFICIENT CNN ARCHITECTURE DESIGN GUIDED BY VISUALIZATION
+https://arxiv.org/pdf/2207.10318.pdf
